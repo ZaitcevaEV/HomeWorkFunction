@@ -1,0 +1,15 @@
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.csproj.AssemblyReference.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.AssemblyInfoInputs.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.AssemblyInfo.cs
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.csproj.CoreCompileInputs.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\bin\Debug\net6.0\Test3.exe
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\bin\Debug\net6.0\Test3.deps.json
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\bin\Debug\net6.0\Test3.runtimeconfig.json
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\bin\Debug\net6.0\Test3.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\bin\Debug\net6.0\Test3.pdb
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\refint\Test3.dll
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.pdb
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\Test3.genruntimeconfig.cache
+C:\!!!!!!!Диск D\GeekBrains\1 четверть\Знакомство с языками программирования\HomeWork\Test3\obj\Debug\net6.0\ref\Test3.dll
